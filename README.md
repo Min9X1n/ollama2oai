@@ -1,7 +1,7 @@
 # ollama2oai
-一个轻量级的 Go 语言代理服务器，将 Ollama API 请求转换为 OpenAI 兼容 API 格式。
+一个轻量级的 Go 语言代理服务器，将 Ollama API 请求转换为 OpenAI 兼容 API 格式。制作它的最大原因是为了使用Citespace中的Ollama功能。
 
-A lightweight Go-based proxy server that converts Ollama API requests into an OpenAI-compatible API format. 
+A lightweight Go-based proxy server that converts Ollama API requests into an OpenAI-compatible API format. The main reason for making it was to use Ollama features in Citespace.
 
 ## 功能
 
