@@ -46,9 +46,9 @@ go build -o ollama2oai
 ```
 
 ### 2. 对接 OpenAI API | Connect to OpenAI API
-
+注意：无需添加“v1”
 ```bash
-./ollama2oai -upstream https://api.openai.com/v1 -api-key sk-your-key
+./ollama2oai -upstream https://api.openai.com -api-key sk-your-key
 ```
 
 ## 工作原理 | How It Works
